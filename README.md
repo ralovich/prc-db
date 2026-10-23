@@ -16,3 +16,5 @@ The original PDF data comes from public web searches. Original file names were k
 - "This area requires a 3D PDF enabled viewer" filetype:pdf
 - "To activate the interactive 3D view" filetype:pdf
 - "Click to activate 3D content" filetype:pdf
+- "SimLab Generated PDF" filetype:pdf
+- "PDF3D Document" filetype:pdf
