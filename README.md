@@ -18,3 +18,6 @@ The original PDF data comes from public web searches. Original file names were k
 - "Click to activate 3D content" filetype:pdf
 - "SimLab Generated PDF" filetype:pdf
 - "PDF3D Document" filetype:pdf
+- "tetra4d" filetype:pdf
+- "tetra4d reviewer" filetype:pdf
+- "Interactive 3D PDF of the" filetype:pdf
